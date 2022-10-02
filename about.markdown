@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Akshay Arora. I'm a software engineer at Google India. 
+My name is Akshay Arora. I'm a software engineer at Google in Bellevue, WA. 
 
 <!---
 You can find the source code for Minima at GitHub:
